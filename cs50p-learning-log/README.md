@@ -14,3 +14,10 @@
 - Learned to create and run Python files via terminal.
 - Practiced using f-strings and curly braces to format output.
 - Troubleshot syntax issues with file naming and extensions.
+
+### 
+- Finished Week 0 by exploring built-in string and number methods.
+- Practiced manipulating text using .strip(), .lower(), and .title().
+- Used the CS50 VS Code extension to automatically commit and save my work.
+- Uploaded my progress seamlessly to the cloud while writing code.
+- Completed the some Week 0 assignments and verified submission statuses.
