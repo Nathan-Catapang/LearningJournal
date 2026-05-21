@@ -15,7 +15,7 @@
 - Practiced using f-strings and curly braces to format output.
 - Troubleshot syntax issues with file naming and extensions.
 
-### 
+### Day 4 (May 21, 2026)
 - Finished Week 0 by exploring built-in string and number methods.
 - Practiced manipulating text using .strip(), .lower(), and .title().
 - Used the CS50 VS Code extension to automatically commit and save my work.
