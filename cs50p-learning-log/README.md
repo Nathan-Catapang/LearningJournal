@@ -21,3 +21,10 @@
 - Used the CS50 VS Code extension to automatically commit and save my work.
 - Uploaded my progress seamlessly to the cloud while writing code.
 - Completed the some Week 0 assignments and verified submission statuses.
+
+### Day 5 (May 22, 2026)
+
+- Started Week 1 to learn about conditionals and logic in Python.
+- Explored how if, elif, and else statements control the flow of code.
+- Practiced using comparison operators like less than, greater than, and equal to.
+- Wrote a script that uses boolean expressions to make decisions based on user input.
