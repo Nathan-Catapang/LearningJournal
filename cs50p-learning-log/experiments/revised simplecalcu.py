@@ -1,6 +1,6 @@
 # Now i tried with dictionaries and functions. Still can't hhandle PEMDAS operations but I'm working my way up since i started from scatch.
 # I also discovered the exception functions loll.
-# also tried input.split()
+# Also tried input.split() and replace() to handle input spacings.
 
 
 def add(x, y):
@@ -38,8 +38,12 @@ def main():
             break
 
         try:
-            x, op, y = user_input.split()
+            user_input = user_input.replace(" ", "")
 
+            for op in "+-*/":
+                user_input = user_input.replace(op, f" {op} ")
+
+            x, op, y = user_input.split()
             x = int(x)
             y = int(y)
 
@@ -62,5 +66,5 @@ def main():
 main()
 
 
-# This is the new code I tried to implement earlier but with operations instead. Did it with 2 variables intended but seem to work if not applying PEMDAS.
+# This is the new code I tried to implement earlier but with operations instead. Did it with 2 variables intended but seem to work.
 # Will try to token parsing and stacks later on to handle that.
