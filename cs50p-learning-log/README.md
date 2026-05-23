@@ -28,3 +28,10 @@
 - Explored how if, elif, and else statements control the flow of code.
 - Practiced using comparison operators like less than, greater than, and equal to.
 - Wrote a script that uses boolean expressions to make decisions based on user input.
+
+### Day 6 (May 23, 2026)
+- Dived deeper into function design, arguments, parameters, and variable scope constraints.
+- Built a mock ATM simulator using while True, break, and return to manage complex program loops.
+- Refactored long if/elif structures by mapping actions directly inside Python dictionaries using .get().
+- Studied collection metrics using len() and validated numeric inputs safely via the .isdigit() string method.
+- Mastered advanced string pattern matching using .startswith() to filter user text without redundant loops.
