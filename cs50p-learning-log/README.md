@@ -33,5 +33,8 @@
 - Dived deeper into function design, arguments, parameters, and variable scope constraints.
 - Built a mock ATM simulator using while True, break, and return to manage complex program loops.
 - Refactored long if/elif structures by mapping actions directly inside Python dictionaries using .get().
-- Studied collection metrics using len() and validated numeric inputs safely via the .isdigit() string method.
+- Finished cs50 week 1,  started dwelling on technical exploration.
 - Mastered advanced string pattern matching using .startswith() to filter user text without redundant loops.
+
+### Day 7 (May 23, 2026)
+- 
