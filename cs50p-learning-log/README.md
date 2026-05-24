@@ -37,4 +37,7 @@
 - Mastered advanced string pattern matching using .startswith() to filter user text without redundant loops.
 
 ### Day 7 (May 23, 2026)
-- 
+- Shifted focus toward conceptual learning by diving into CS50P Weeks 2 and 3.
+- Explored how loops handle repetitive tasks and how libraries allow the importing of external modules to extend Python's built-in capabilities.
+- Studied exceptions and error-handling mechanics to understand how to gracefully catch and manage runtime crashes.
+- Took a little break from solving problems.
