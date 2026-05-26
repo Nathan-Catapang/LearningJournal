@@ -36,8 +36,18 @@
 - Finished cs50 week 1,  started dwelling on technical exploration.
 - Mastered advanced string pattern matching using .startswith() to filter user text without redundant loops.
 
-### Day 7 (May 23, 2026)
+### Day 7 (May 24, 2026)
 - Shifted focus toward conceptual learning by diving into CS50P Weeks 2 and 3.
 - Explored how loops handle repetitive tasks and how libraries allow the importing of external modules to extend Python's built-in capabilities.
 - Studied exceptions and error-handling mechanics to understand how to gracefully catch and manage runtime crashes.
 - Took a little break from solving problems.
+
+### Day 8 (May 25, 2026)
+- Completed all CS50P Week 2 problem sets and successfully initiated the problem sets for Week 3.
+- Advanced through the curriculum by watching the Week 4 lecture on libraries and processing the Week 3 short videos.
+- Deepened understanding of code reusability by exploring how to import external modules and package capabilities into scripts.
+- Transitioned knowledge from the browser environment to local development by learning how to configure a personal IDE setup.
+- Resolved local terminal environment issues, focusing on directory visibility and system pathing configurations.
+
+### Day 9 (May 26, 2026)
+- 
