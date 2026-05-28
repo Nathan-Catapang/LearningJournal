@@ -50,4 +50,10 @@
 - Resolved local terminal environment issues, focusing on directory visibility and system pathing configurations.
 
 ### Day 9 (May 26, 2026)
+- Finished Week 3 by completing all remaining problem sets on exceptions and error handling.
+- Mastered try and except blocks to gracefully catch ValueError and ZeroDivisionError tracking runtime bugs.
+- Explored and integrated concepts up to week 4 by building a fun interactive russian roulette game.
+- Built interactive loops that continuously prompt users for input until valid data is provided.
+
+### Day 10 (May 28, 2026)
 - 
