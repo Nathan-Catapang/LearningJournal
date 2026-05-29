@@ -56,4 +56,11 @@
 - Built interactive loops that continuously prompt users for input until valid data is provided.
 
 ### Day 10 (May 28, 2026)
+- Bridged fundamental mechanics. Analyzed how core Python logic connects directly to imported library modules.
+- Demystified external code. Studied how libraries use basic functions, parameters, and loops under the hood.Balanced core concepts.
+- Practiced writing manual logic before replacing it with abstracted library functions.Reinforced system paths.
+- Solidified local environment configurations to ensure seamless module imports.
+- Read stuff about API/API calls for code integration.
+
+### Day 11 (May 29, 2026)
 - 
