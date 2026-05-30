@@ -62,5 +62,10 @@
 - Solidified local environment configurations to ensure seamless module imports.
 - Read stuff about API/API calls for code integration.
 
-### Day 11 (May 29, 2026)
-- 
+### Day 11 (May 30, 2026)
+- Completed three Week 4 problem sets including Emojize, Figlet, and Adieu, Adieu.
+- Mastered command-line argument parsing and handled exit codes using the sys module.
+- Utilized object-oriented methods and external engines like pyfiglet and inflect.
+- Built an infinite input loop using a try-except block to capture EOFError.
+
+### Day 12 (May 31, 2026)
