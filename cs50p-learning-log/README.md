@@ -69,3 +69,11 @@
 - Built an infinite input loop using a try-except block to capture EOFError.
 
 ### Day 12 (May 31, 2026)
+- Completed the remaining Week 4 problem sets: Guessing Game, Little Professor, and Bitcoin Price Index.
+- Utilized the random module to generate pseudo-random numbers for games and math operations.
+- Implemented robust error-handling loops to validate user-inputted difficulty levels and numeric guesses.
+- Practiced handling API requests and parsing JSON data using the requests library to fetch real-time Bitcoin prices.
+- Managed command-line arguments and data validation to handle external system inputs securely.
+
+### Day 13 (June 1, 2026)
+- 
