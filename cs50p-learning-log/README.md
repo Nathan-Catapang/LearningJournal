@@ -76,4 +76,7 @@
 - Managed command-line arguments and data validation to handle external system inputs securely.
 
 ### Day 13 (June 1, 2026)
-- 
+- Transitioned to Week 6 of CS50P to study core file I/O concepts.
+- Took a planned break from problem sets to focus on foundational theory.
+- Configured and optimized the local Python development environment for upcoming projects.
+- Explored mechanisms for reading, writing, and manipulating external files in Python.
