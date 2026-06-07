@@ -80,3 +80,10 @@
 - Took a planned break from problem sets to focus on foundational theory.
 - Configured and optimized the local Python development environment for upcoming projects.
 - Explored mechanisms for reading, writing, and manipulating external files in Python.
+
+### Day 14 (June 7, 2026)
+- Continuation of cs50p post data camp python prerequisites
+- quick recap of day 13 stuff
+
+### Day 15 (June 8, 2026)
+- e
