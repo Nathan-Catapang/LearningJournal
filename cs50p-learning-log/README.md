@@ -86,4 +86,20 @@
 - quick recap of day 13 stuff
 
 ### Day 15 (June 8, 2026)
+- eete
 - e
+- ww
+- yw
+- h
+- hy35
+- JE5
+- U
+- 35j
+- 35u
+- 35U
+- 3
+- U35U
+- 35
+- 35
+- Y35
+- U35U
