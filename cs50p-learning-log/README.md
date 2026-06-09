@@ -1,4 +1,4 @@
-# CS50P Learning Log
+# CS50P Learning Log LEARNING
 
 ### Day 1 (May 16, 2026)
 - Started the CS50P course.
