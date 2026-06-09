@@ -86,20 +86,10 @@
 - quick recap of day 13 stuff
 
 ### Day 15 (June 8, 2026)
-- eete
-- e
-- ww
-- yw
-- h
-- hy35
-- JE5
-- U
-- 35j
-- 35u
-- 35U
-- 3
-- U35U
-- 35
-- 35
-- Y35
-- U35U
+- Finished problem lines of code
+- learned to apply os and sys library for file i/o
+- learned to use variants of .strip function: .lstrip(), .rstrip()
+- learned indexing in i/o
+- Learned to minimize nesting and boolean inversions for cleaner readability
+- Learned with open(filename, "r") as file:, and file.readlines() formatting
+  
