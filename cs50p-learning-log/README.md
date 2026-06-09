@@ -92,4 +92,22 @@
 - learned indexing in i/o
 - Learned to minimize nesting and boolean inversions for cleaner readability
 - Learned with open(filename, "r") as file:, and file.readlines() formatting
+
+### Day 16 (June 9, 2026)
+- rw
+- etet
+- eete
+- e
+- te
+- te
+- te
+- et
+- etete
+- te
+- te
+- te
+- tetet
+- e
+- tet
+- et
   
