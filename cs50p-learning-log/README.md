@@ -94,34 +94,8 @@
 - Learned with open(filename, "r") as file:, and file.readlines() formatting
 
 ### Day 16 (June 9, 2026)
-- rw
-u6u
-
-35
-5
-
-3634
-63
-63
-3
-6
-36
-262
-6
-63
-63
-3
-636
-36
-36
-36
-36nj
-tjjtJ
-36
-63
-0[
-=
-
--
---
--
+- Core Focus: Advanced File I/O processing using the csv module.
+- Milestone: Worked on the CS50P Pizza Pizza problem set.
+- Key Functions: Mastered reading tabular data using csv.reader.
+- Data Formatting: Learned to format external CSV data into clean ASCII tables using the tabulate package.
+- Error Handling: Implemented robust file checks using sys.argv and try/except blocks for missing files.
