@@ -114,3 +114,5 @@
 - Extension Validation: Leveraged os.path.splitext to extract, isolate, and validate file extensions from command-line arguments.
 - Error Handling: Enforced strict input validation by ensuring input and output file extensions matched exactly before executing image operations.
 
+### Day 19 (June 12, 2026)
+- 
