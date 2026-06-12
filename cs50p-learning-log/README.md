@@ -108,6 +108,9 @@
 - Data Cleanup: Cleaned up white space on keys and values manually using dictionary comprehensions and structural .strip() applications.
 
 ### Day 18 (June 11, 2026)
-- 
-
+- Milestone: Completed the CS50P Shirt problem set to conclude the file I/O module.
+- Image Overlay: Mastered the PIL (Pillow) library to load, resize, crop, and overlay transparent PNG images onto existing photos.
+- Dynamic Cropping: Implemented ImageOps.fit to dynamically crop and resize background images to match the exact dimensions of an overlay shirt.
+- Extension Validation: Leveraged os.path.splitext to extract, isolate, and validate file extensions from command-line arguments.
+- Error Handling: Enforced strict input validation by ensuring input and output file extensions matched exactly before executing image operations.
 
