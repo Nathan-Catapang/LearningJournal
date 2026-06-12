@@ -99,3 +99,15 @@
 - Key Functions: Mastered reading tabular data using csv.reader.
 - Data Formatting: Learned to format external CSV data into clean ASCII tables using the tabulate package.
 - Error Handling: Implemented robust file checks using sys.argv and try/except blocks for missing files.
+
+### Day 17 (June 10, 2026)
+- Milestone: Successfully solved the CS50P Scourgify problem set.
+- String Manipulation: Leveraged .split() with custom delimiters and maxsplit arguments to partition full names into first and last components.
+- Advanced CSV Handling: Explored csv.DictReader and csv.DictWriter to ingest, transform, and output tabular data using native Python dictionaries.
+- Formatting Hygiene: Discovered the necessity of the newline="" parameter in open() to prevent cross-platform row corruption.
+- Data Cleanup: Cleaned up white space on keys and values manually using dictionary comprehensions and structural .strip() applications.
+
+### Day 18 (June 11, 2026)
+- 
+
+
