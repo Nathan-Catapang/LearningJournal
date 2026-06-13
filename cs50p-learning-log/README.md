@@ -115,4 +115,13 @@
 - Error Handling: Enforced strict input validation by ensuring input and output file extensions matched exactly before executing image operations.
 
 ### Day 19 (June 12, 2026)
-- 
+- Milestone: Initiated Week 7 of CS50P to master Regular Expressions (regex).
+- Syntax Foundations: Studied core lecture concepts and shorts covering pattern matching symbols.
+- Text Parsing: Explored regex methods to identify, isolate, and extract data from strings.
+- Implementation Strategy: Mapped out logical patterns required to tackle upcoming string-validation problem sets.
+
+### Day 20 (June 13, 2026)
+- IP Validation: Solved the Numb3rs problem set using regex to validate IPv4 addresses.
+- URL Extraction: Completed the Watching problem set to parse YouTube embed links from HTML.
+- Routine Balancing: Managed technical coursework progression alongside a demanding 9-to-5 work schedule.
+- Pattern Design: Built complex expressions to handle numeric ranges and specific string boundaries.
