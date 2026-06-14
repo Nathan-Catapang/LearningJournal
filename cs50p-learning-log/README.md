@@ -127,5 +127,8 @@
 - Pattern Design: Built complex expressions to handle numeric ranges and specific string boundaries.
 
 ### Day 21 (June 14, 2026)
-- 
+- re.compile() Object Methods: I learned that compiling a messy regex pattern creates a specialized object with its own built-in .search() method, keeping my main convert() function visual clutter-free.
+- Greedy Spacing Control: I discovered why rigid \s+ rules crash when optional (AM|PM)? groups are skipped, and how switching to \s* fixes text alignment bugs.The or
+- Fallback Rule: I mastered Python's short-circuit logic where s_min or '00' effortlessly provides a clean default value when optional regex groups return None.Modulo
+- % 12 Clock Math: I figured out how the remainder operator effortlessly translates a circular 12-hour clock face down to a 24-hour baseline integer without a single if/elif statement.
 
