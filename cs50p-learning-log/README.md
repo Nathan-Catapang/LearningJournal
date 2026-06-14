@@ -127,8 +127,8 @@
 - Pattern Design: Built complex expressions to handle numeric ranges and specific string boundaries.
 
 ### Day 21 (June 14, 2026)
-- re.compile() Object Methods: I learned that compiling a messy regex pattern creates a specialized object with its own built-in .search() method, keeping my main convert() function visual clutter-free.
-- Greedy Spacing Control: I discovered why rigid \s+ rules crash when optional (AM|PM)? groups are skipped, and how switching to \s* fixes text alignment bugs.The or
-- Fallback Rule: I mastered Python's short-circuit logic where s_min or '00' effortlessly provides a clean default value when optional regex groups return None.Modulo
-- % 12 Clock Math: I figured out how the remainder operator effortlessly translates a circular 12-hour clock face down to a 24-hour baseline integer without a single if/elif statement.
-
+- Streamlined Regex Workflow: Mastered compiling complex patterns with re.compile() to create specialized objects, keeping the main convert() function visual clutter-free by using built-in methods like .search().
+- Flexible Spacing Control: Fixed text alignment bugs by switching from rigid \s+ to optional \s* spacing rules, preventing code crashes when optional groups like (AM|PM)? are skipped.
+- Short-Circuit Fallbacks: Leveraged Python's or logic (e.g., s_min or '00') to effortlessly supply clean default values whenever optional regex groups return None.
+- Smart Clock Math: Replaced clunky if/elif statements with the modulo operator (% 12) to seamlessly translate circular 12-hour clock times down to a 24-hour baseline integer.
+- Practical Regex Implementation: Completed Week 7 by building um.py and response.py, which solidifies real-world skills in extracting specific text fragments, counting filler words, and validating complex user inputs like email addresses or URLs.
