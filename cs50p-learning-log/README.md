@@ -132,3 +132,10 @@
 - Short-Circuit Fallbacks: Leveraged Python's or logic (e.g., s_min or '00') to effortlessly supply clean default values whenever optional regex groups return None.
 - Smart Clock Math: Replaced clunky if/elif statements with the modulo operator (% 12) to seamlessly translate circular 12-hour clock times down to a 24-hour baseline integer.
 - Practical Regex Implementation: Completed Week 7 by building um.py and response.py, which solidifies real-world skills in extracting specific text fragments, counting filler words, and validating complex user inputs like email addresses or URLs.
+
+### Day 22 (June 15)
+- Object-Oriented Foundations: Transitioned to Week 8 by mastering the core principles of OOP, learning how classes serve as structural blueprints to bundle isolated data attributes and unique methods together.
+- Instance vs. Class Mechanics: Decoupled the technical differences between instantiating object constructors, calling bound instance methods (self), and leveraging static utility workflows like class methods.
+- Dynamic Datetime Math: Solved the Seasons of Love problem set by processing inputs with date.fromisoformat() and exploiting operator overloading to calculate elapsed minutes via timedelta objects.
+- String Transformation Pipelines: Configured the external inflect engine class with specialized arguments (andword="") to cleanly format massive integers into capitalized English word blocks without grammatical connector flags.
+- Advanced Exception Handling: Fortified program robustness by wrapping string parsing layers inside strict try/except ValueError blocks, ensuring clean validation tracking without throwing raw crash traces.
