@@ -140,7 +140,7 @@
 - String Transformation Pipelines: Configured the external inflect engine class with specialized arguments (andword="") to cleanly format massive integers into capitalized English word blocks without grammatical connector flags.
 - Advanced Exception Handling: Fortified program robustness by wrapping string parsing layers inside strict try/except ValueError blocks, ensuring clean validation tracking without throwing raw crash traces.
 
-## Day 23 (June 17)
+### Day 23 (June 17)
 - Core Lecture Review: Mastered the Week 8 video lecture on Object-Oriented Programming, focusing on how classes structure data and enforce clean code boundaries.
 - Completed Seasons of Love: Successfully built, tested, and submitted the seasons.py problem set, validating ISO date inputs and calculating exact lifetimes in words.
 - Encapsulation & Guardrails: Prevented invalid object states by implementing Python @property getters and setters to intercept and validate data before assignment.
@@ -153,6 +153,21 @@
 - Encapsulation Architecture: Deployed Python `@property` getter and setter decorators to intercept raw variable modifications and enforce strict validation guardrails.
 - Memory State Separation: Implemented single-underscore naming conventions (`self._variable`) to isolate private internal object data lockers from public attribute interfaces.
 - Built-In Paradigm Differentiation: Discovered Python's underlying type architecture, distinguishing between functional operational utilities and primitive constructor classes like property.
+
+### Day 24 (June 18, 2026)
+- Type Inspection & Architecture: Utilized the built-in type() function to dynamically analyze runtime object signatures and map Week 8 inheritance behaviors.
+- Completed Jar: Engineered a cookie jar class utilizing custom __str__ methods, explicit capacity getters/setters, and intentional ValueError guardrails to manage state.
+- Completed CS50 Shirtificate: Extended the external FPDF base class to construct a custom child layout, overriding the structural .header() hook to automate formatting.
+- Layout Control & Encapsulation: Mastered multi-dimensional canvas positioning (x, y, w, h) while utilizing library-level object encapsulation instead of low-level manual file I/O operations.
+- Official completed all of OOP problem sets from week 8 cs50P.
+
+### Day 25 (June 19, 2026)
+- watched et cetera.
+- will be working on my Final project
+- researching on python implementations
+- will have updates for next project related commits
+
+
 
 
 
