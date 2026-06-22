@@ -167,6 +167,8 @@
 - researching on python implementations
 - will have updates for next project related commits
 
+### Day 26 (June  22, 2026)
+- Started prototyping
 
 
 
