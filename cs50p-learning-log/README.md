@@ -170,6 +170,8 @@
 ### Day 26 (June  22, 2026)
 - Started prototyping
 
+### Day 27 (June 23, 2026)
+- testing code base and refactoring main
 
 
 
