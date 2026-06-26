@@ -168,10 +168,13 @@
 - will have updates for next project related commits
 
 ### Day 26 (June  22, 2026)
-- Started prototyping
+- Started prototyping and library cross anaylsis
 
 ### Day 27 (June 23, 2026)
 - testing code base and refactoring main
+
+### Day 29 (June 24, 2026
+- 
 
 
 
