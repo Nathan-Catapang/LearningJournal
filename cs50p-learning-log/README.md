@@ -170,11 +170,11 @@
 ### Day 26 (June  22, 2026)
 - Started prototyping and library cross anaylsis
 
-### Day 27 (June 23, 2026)
+### Day 27 (June 25, 2026)
 - testing code base and refactoring main
 
-### Day 29 (June 24, 2026
-- 
+### Day 29 (June 27, 2026
+- Final touching and review of algorithm application.
 
 
 
