@@ -181,3 +181,4 @@ Final Project Delivery: Completed the core project.py implementation and compile
 
 ### Day 31
 - This was CS50p, I will move on to my CS50x Journey. Thank you.
+- Started cs50x, will start documenting there on a new directory.
