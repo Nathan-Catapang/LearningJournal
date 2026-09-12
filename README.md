@@ -79,6 +79,8 @@ Welcome to my personal developer playground. This repository is where I track th
 - [ ] Turn conceptual AI engineering knowledge into real, practical prompt chains and tools.
 - [ ] Get more comfortable with multi-stage Docker builds.
 - [ ] Build with n&n
+- [ ] Learn and stay updated
+- [ ] DSA
 - [ ] work ig?
 
 ---
