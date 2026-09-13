@@ -203,3 +203,6 @@ will start the project soon
 ### Day 49, (Sept 12, 2026)
 - Setting up github and student toolings as a n extra help for my final project.
 - setting up documents 
+
+### Day 50, (Sept 13, 2026)
+- making a supabase db for n8n
