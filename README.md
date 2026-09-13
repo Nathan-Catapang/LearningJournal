@@ -75,6 +75,7 @@ Welcome to my personal developer playground. This repository is where I track th
 ## What's Next?
 
 - [ ] Knock out the GitHub Foundations exam.
+- [ ] Complete auditing all relevant anthropic courses
 - [ ] Build end-to-end full-stack projects using `uv` + `bun` + `FastAPI`.
 - [ ] Turn conceptual AI engineering knowledge into real, practical prompt chains and tools.
 - [ ] Get more comfortable with multi-stage Docker builds.
