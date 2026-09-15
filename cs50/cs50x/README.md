@@ -207,10 +207,10 @@ will start the project soon
 ### Day 50, (Sept 13, 2026)
 - making a supabase db for n8n
 
-### DaY 51, (Sept 15, 2026() 
+
 
 ### Day 51, (Sept 14, 2026)
 - started anthropic course for handling ai endpoints.
 
-### Day 52, (Sept 15, 2026)
-- day 2
+### DaY 52, (Sept 15, 2026)
+- Watched and reviewed material: 'WHat is the Claude platform'
