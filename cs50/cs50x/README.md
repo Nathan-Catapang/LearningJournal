@@ -209,3 +209,5 @@ will start the project soon
 
 ### Day 51, (Sept 14, 2026)
 - started anthropic course for handling ai endpoints.
+
+### Day 52, (Sept 15, 2026)
