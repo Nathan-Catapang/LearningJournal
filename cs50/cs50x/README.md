@@ -215,3 +215,6 @@ will start the project soon
 ### DaY 52, (Sept 15, 2026)
 - Watched and reviewed material: 'WHat is the Claude platform'
 - watched and reviewed: First API call
+
+Day 53, (Sept 17, 2026)
+- Finished both the claude platform and teaching your agent
