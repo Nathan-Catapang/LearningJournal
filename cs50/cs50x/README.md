@@ -218,3 +218,4 @@ will start the project soon
 
 Day 53, (Sept 17, 2026)
 - Finished both the claude platform and teaching your agent
+- will start more on 'extending your agents'
