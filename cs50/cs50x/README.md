@@ -216,6 +216,14 @@ will start the project soon
 - Watched and reviewed material: 'WHat is the Claude platform'
 - watched and reviewed: First API call
 
-Day 53, (Sept 17, 2026)
+### Day 53, (Sept 17, 2026)
 - Finished both the claude platform and teaching your agent
 - will start more on 'extending your agents'
+
+### Day 54, (Sept 18, 2026)
+- Finished extending your agent and will start managed agents
+- Finished building with claude code
+
+### Day 55, (Sept 19, 2026)
+- 
+
