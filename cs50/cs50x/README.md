@@ -225,5 +225,5 @@ will start the project soon
 - Finished building with claude code
 
 ### Day 55, (Sept 19, 2026)
-- 
-
+- Finished claude 101  quiz 6/6 score
+- Got the certificate of completion
