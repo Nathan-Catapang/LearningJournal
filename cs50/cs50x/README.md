@@ -227,3 +227,7 @@ will start the project soon
 ### Day 55, (Sept 19, 2026)
 - Finished claude 101  quiz 6/6 score
 - Got the certificate of completion
+
+### Day 56, (Sept 20, 2026)
+- started a new course on 'Building with the Claude API'
+- writing and making request on anthropic's endpoints
