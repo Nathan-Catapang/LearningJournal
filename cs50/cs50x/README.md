@@ -231,3 +231,5 @@ will start the project soon
 ### Day 56, (Sept 20, 2026)
 - started a new course on 'Building with the Claude API'
 - writing and making request on anthropic's endpoints
+
+### Day 57, (Sept 22, 2026)
