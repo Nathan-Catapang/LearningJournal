@@ -233,3 +233,4 @@ will start the project soon
 - writing and making request on anthropic's endpoints
 
 ### Day 57, (Sept 22, 2026)
+- Continuation
