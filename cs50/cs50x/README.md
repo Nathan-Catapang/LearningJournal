@@ -234,3 +234,6 @@ will start the project soon
 
 ### Day 57, (Sept 22, 2026)
 - Continuation
+
+### Day 58, (Sept 23, 2026)
+- reviewd about the chatbot exercise and the concepts about multi-turn conversation
