@@ -243,4 +243,6 @@ will start the project soon
 - did the system prompt exercise
 
 ### Day 60, (Sept 26, 2026)
-- 
+- Learned response streaming
+- Learned about structured data and stop sequencing
+- did a stop sequencing exercise
