@@ -238,7 +238,9 @@ will start the project soon
 ### Day 58, (Sept 23, 2026)
 - reviewed about the chatbot exercise and the concepts about multi-turn conversation
 
-### Day 59, (Sept 24, 2026)
+### Day 59, (Sept 25, 2026)
 - started implementing system prompts to message parameters
+- did the system prompt exercise
 
-### Day 60, (Sept 25, 2026)
+### Day 60, (Sept 26, 2026)
+- 
