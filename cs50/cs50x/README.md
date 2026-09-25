@@ -241,9 +241,9 @@ will start the project soon
 ### Day 59, (Sept 25, 2026)
 - started implementing system prompts to message parameters
 - did the system prompt exercise
-- did quiz on accessing with claude with the API
 
 ### Day 60, (Sept 26, 2026)
 - Learned response streaming
 - Learned about structured data and stop sequencing
 - did a stop sequencing exercise
+- did quiz on accessing with claude with the API and got a perfect 8/8 score
