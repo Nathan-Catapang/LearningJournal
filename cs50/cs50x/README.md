@@ -249,3 +249,4 @@ will start the project soon
 - did quiz on accessing with claude with the API and got a perfect 8/8 score
 - started prompt evaluations and generating datasets
 - running evals
+- finished prompt evals section with a perfect 6/6 score
