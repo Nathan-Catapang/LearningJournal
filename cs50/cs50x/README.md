@@ -250,3 +250,6 @@ will start the project soon
 - started prompt evaluations and generating datasets
 - running evals
 - finished prompt evals section with a perfect 6/6 score
+
+### Day 28, (Sept 27, 2026)
+- started neetcode grind.
