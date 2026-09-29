@@ -82,7 +82,7 @@ Welcome to my personal developer playground. This repository is where I track th
 - [ ] Build with n&n
 - [ ] Learn and stay updated
 - [ ] DSA  thru neetcode
-- [ ] 
+- [ ] Anthropic Courses
 - [ ] work ig?
 
 ---
