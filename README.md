@@ -81,7 +81,8 @@ Welcome to my personal developer playground. This repository is where I track th
 - [ ] Get more comfortable with multi-stage Docker builds.
 - [ ] Build with n&n
 - [ ] Learn and stay updated
-- [ ] DSA
+- [ ] DSA  thru neetcode
+- [ ] 
 - [ ] work ig?
 
 ---
