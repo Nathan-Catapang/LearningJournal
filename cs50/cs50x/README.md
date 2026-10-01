@@ -253,3 +253,5 @@ will start the project soon
 
 ### Day 28, (Sept 27, 2026)
 - started neetcode grind.
+
+### Day, (Sept 28, 2026)
