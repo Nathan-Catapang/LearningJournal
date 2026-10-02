@@ -254,5 +254,5 @@ will start the project soon
 ### Day 28, (Sept 27, 2026)
 - started neetcode grind.
 
-###
-- 
+### Day 29, (Sept 27, 2026)
+- Resumed prompt engineering section 
