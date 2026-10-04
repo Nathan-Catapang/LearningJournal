@@ -251,8 +251,11 @@ will start the project soon
 - running evals
 - finished prompt evals section with a perfect 6/6 score
 
-### Day 28, (Sept 27, 2026)
+### Day 61, (Sept 30, 2026)
 - started neetcode grind.
 
-### Day 29, (Sept 27, 2026)
-- Resumed prompt engineering section 
+### Day 62, (Oct 2, 2026)
+- Resumed prompt engineering section
+
+### Day 63, (Oct 5, 2026) 
+- Prototype revisions
