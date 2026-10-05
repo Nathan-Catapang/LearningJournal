@@ -259,3 +259,4 @@ will start the project soon
 
 ### Day 63, (Oct 5, 2026) 
 - Prototype revisions
+- REST apis
