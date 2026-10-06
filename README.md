@@ -85,6 +85,7 @@ Welcome to my personal developer playground. This repository is where I track th
 - [ ] Anthropic Courses
 - [ ] Learn Typescript for frontend
 - [ ] work ig?
+- [ ] VA or intern as by next year
 
 ---
 
