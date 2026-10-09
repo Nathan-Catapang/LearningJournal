@@ -207,8 +207,6 @@ will start the project soon
 ### Day 50, (Sept 13, 2026)
 - making a supabase db for n8n
 
-
-
 ### Day 51, (Sept 14, 2026)
 - started anthropic course for handling ai endpoints.
 
@@ -260,3 +258,6 @@ will start the project soon
 ### Day 63, (Oct 5, 2026) 
 - Prototype revisions
 - REST apis
+
+### Day 64, (Oct 8. 2026)
+- backend refactoring
