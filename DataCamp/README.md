@@ -10,4 +10,5 @@
 ### Day 3, (October 11, 2026)
 -  Got updated post finishing   github foundations  track
 
-### 
+### Day 4, (October 12, 2026)
+- Learned more stuff about SDD
