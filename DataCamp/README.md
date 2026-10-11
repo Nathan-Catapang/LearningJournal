@@ -8,4 +8,6 @@
 - [] Learning intermediate github concepts after the audit of introduction to github
 
 ### Day 3, (October 11, 2026)
--  (take the test) to be done
+-  Got updated post finishing   github foundations  track
+
+### 
