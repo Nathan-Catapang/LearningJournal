@@ -12,3 +12,4 @@
 
 ### Day 4, (October 12, 2026)
 - Learned more stuff about SDD
+- Spec driven development dive
