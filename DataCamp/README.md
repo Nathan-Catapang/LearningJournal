@@ -15,5 +15,6 @@
 - Spec driven development dive
 
 ### Day 5, (October 13, 2026)
+- Spec-Driven Development with Claude Code: A Guided Tutorial
 - Learned Superpowers, github-spec-kit, and BMAD method use cases.
 - Json mcp setup for agent driven development
