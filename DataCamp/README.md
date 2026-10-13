@@ -15,4 +15,4 @@
 - Spec driven development dive
 
 ### Day 5, (October 13, 2026)
-- 
+- Learned Superpowers, github-spec-kit, and BMAD method use cases.
