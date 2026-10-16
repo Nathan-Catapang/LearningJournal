@@ -18,3 +18,6 @@
 - Spec-Driven Development with Claude Code: A Guided Tutorial
 - Learned Superpowers, github-spec-kit, and BMAD method use cases.
 - Json mcp setup for agent driven development
+
+### Day 6, (October 16, 2026)
+- Am finding more learnable stuff for my journey in datacamp like stuff along js too
