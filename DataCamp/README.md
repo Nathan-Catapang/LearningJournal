@@ -21,3 +21,6 @@
 
 ### Day 6, (October 16, 2026)
 - Am finding more learnable stuff for my journey in datacamp like stuff along js too
+
+###  Day 7, (Octobeter 17, 2026)
+- Learning more basics to advanced stuff on html htmx css javascript frameworks in general
