@@ -24,3 +24,4 @@
 
 ###  Day 7, (Octobeter 17, 2026)
 - Learning more basics to advanced stuff on html htmx css javascript frameworks in general
+- observing alternatives
