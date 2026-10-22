@@ -28,3 +28,6 @@
 
 ### Day 8, (October 20, 2026)
 - DSA start
+
+### Day 9, (October 22, 2026)
+- introduction to docker containers
