@@ -31,3 +31,4 @@
 
 ### Day 9, (October 22, 2026)
 - introduction to docker containers
+- Learned more advanced css and keyframes
