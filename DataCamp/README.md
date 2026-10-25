@@ -32,3 +32,6 @@
 ### Day 9, (October 22, 2026)
 - introduction to docker containers
 - Learned more advanced css and keyframes
+  
+### Day 10, (October 25, 2026)
+- data science basics
