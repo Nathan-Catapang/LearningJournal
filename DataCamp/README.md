@@ -35,3 +35,6 @@
   
 ### Day 10, (October 25, 2026)
 - data science basics
+
+### dAY 11, (pCTPBER 27, 2026)
+- TYPESCRIPT AND javascript.
