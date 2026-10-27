@@ -40,4 +40,4 @@
 - TYPESCRIPT AND javascript.
 
 ### Day 12, (October 28, 2026)
-- Typescript syntax and features
+- Typescript syntax and features as a superset
