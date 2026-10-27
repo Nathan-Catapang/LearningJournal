@@ -38,3 +38,6 @@
 
 ### dAY 11, (pCTPBER 27, 2026)
 - TYPESCRIPT AND javascript.
+
+### Day 12, (October 28, 2026)
+- Typescript syntax and features
