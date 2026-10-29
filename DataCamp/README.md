@@ -36,8 +36,11 @@
 ### Day 10, (October 25, 2026)
 - data science basics
 
-### dAY 11, (pCTPBER 27, 2026)
+### dAY 11, (October 27, 2026)
 - TYPESCRIPT AND javascript.
 
 ### Day 12, (October 28, 2026)
 - Typescript syntax and features as a superset
+
+### Day 13, (October 29, 2026)
+- python   obect oriented programming
