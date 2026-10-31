@@ -45,3 +45,6 @@
 ### Day 13, (October 29, 2026)
 - python   obect oriented programming
 - exploring project-based learning.
+
+### Day 14, (October 31, 2026)
+- Document Object model tailored to frontend.
