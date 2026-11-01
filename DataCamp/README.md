@@ -51,3 +51,4 @@
 
 ### Day 15 (October 32, 2026)
 - javascript and typescript Web APIs
+- typescript superset applications.
