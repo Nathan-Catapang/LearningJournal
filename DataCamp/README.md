@@ -48,3 +48,6 @@
 
 ### Day 14, (October 31, 2026)
 - Document Object model tailored to frontend.
+
+### Day 15 (October 32, 2026)
+- javascript and typescript Web APIs
