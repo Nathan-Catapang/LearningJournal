@@ -49,6 +49,9 @@
 ### Day 14, (October 31, 2026)
 - Document Object model tailored to frontend.
 
-### Day 15 (October 32, 2026)
+### Day 15 (November 2, 2026)
 - javascript and typescript Web APIs
 - typescript superset applications.
+
+### Day 16, (November 4, 2024)
+- Datacamp free coupon github foundations inquiry
