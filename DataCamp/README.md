@@ -36,7 +36,7 @@
 ### Day 10, (October 25, 2026)
 - data science basics
 
-### dAY 11, (October 27, 2026)
+### Day 11, (October 27, 2026)
 - TYPESCRIPT AND javascript.
 
 ### Day 12, (October 28, 2026)
@@ -55,3 +55,6 @@
 
 ### Day 16, (November 4, 2024)
 - Datacamp free coupon github foundations inquiry
+
+### Day 17, (Novermber 5, 2026)
+- review on meta framework
