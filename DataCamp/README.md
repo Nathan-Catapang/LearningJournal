@@ -55,3 +55,7 @@
 
 ### Day 16, (November 4, 2024)
 - Datacamp free coupon github foundations inquiry
+
+### Day 17, (November 5, 2026)
+- review on meta frameworks
+  
