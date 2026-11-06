@@ -58,4 +58,5 @@
 
 ### Day 17, (November 5, 2026)
 - review on meta frameworks
+- more javascript web api 
   
