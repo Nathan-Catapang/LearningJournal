@@ -58,5 +58,7 @@
 
 ### Day 17, (November 5, 2026)
 - review on meta frameworks
-- more javascript web api 
-  
+- more javascript web api
+
+### Day 18, (November 8, 2026)
+- Learning python best practices TUi based.
