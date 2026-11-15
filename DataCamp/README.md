@@ -62,3 +62,6 @@
 
 ### Day 18, (November 8, 2026)
 - Learning python best practices TUi based.
+
+### Day 19, (November 9, 2026)
+- Learning to track frequency and 
