@@ -66,4 +66,5 @@
 ### Day 19, (November 9, 2026)
 - Learning to track frequency and counter logic.
 
-#s
+# Day 20, (Noveber16, 2026)
+- Project start audit for python final project.
