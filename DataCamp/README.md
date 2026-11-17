@@ -68,3 +68,6 @@
 
 # Day 20, (Noveber16, 2026)
 - Project start audit for python final project.
+
+# Day 21 (November 17, 2026)
+- continuation
