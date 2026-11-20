@@ -71,3 +71,6 @@
 
 # Day 21 (November 17, 2026)
 - continuation
+
+# Day 22, (November 20, 2026)
+- finsihed project test twist python
