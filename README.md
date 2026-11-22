@@ -66,7 +66,6 @@ Welcome to my personal developer playground. This repository is where I track th
 
 ## Dev Conventions I Follow
 
-- **Clean Code:** Writing readable, self-documenting code over overly clever tricks.
 - **Conventional Commits:** Keeping Git history scannable with clear prefixes (e.g., `feat:`, `fix:`, `docs:`).
 - **Separation of Concerns:** Splitting code up cleanly into modular files and folders.
 
