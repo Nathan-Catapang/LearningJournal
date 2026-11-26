@@ -264,3 +264,6 @@ will start the project soon
 
 ### Day 65, (November 24 2026)
 - project milestone continuation
+
+### Day 66, (November 25, 2026)
+- project presentation defended 
