@@ -266,4 +266,7 @@ will start the project soon
 - project milestone continuation
 
 ### Day 66, (November 25, 2026)
-- project presentation defended 
+- project presentation defended
+
+### Day 67, (November 26, 2026)
+= CS50P FINAL PROJECT MAKING.
